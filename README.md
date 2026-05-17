@@ -1,0 +1,2 @@
+# YAW_Auto_Controller
+搭配同济自瞄的云台yaw轴控制器算法
