@@ -3,7 +3,6 @@
  * @file    yaw_auto_lqr_eso_controller.h
  * @school  南京理工大学（NJUST）
  * @author  戴子轩
- * @phone   18262201952
  * @email   daizeming24@gmail.com
  * @date    2026/5/16
  * @brief   Standalone yaw auto-aim LQR-ESO controller matching the math summary.
